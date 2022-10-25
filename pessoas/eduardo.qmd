@@ -9,20 +9,19 @@ about:
   image-width: 10em
   image-shape: rounded
   links:
-    - text: Lattes
-      icon: lattes
+    - text: "{{< ai lattes >}} Lattes"
       url: https://
-    - text: Orcid
-      icon: orcid
+    - text: "{{< ai orcid >}} OrcID"
       url: https://
-    - text: Google Scholar
-      icon: google-scholar
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: https://
+    - text: "{{< ai researchgate >}} ResearchGate"
       url: https://
     - text: GitHub
       icon: github
       url: https://github.com/edudimitrov
-    - text: Email
-      icon: email
+    - text: "Email"
+      icon: envelope
       url: "mailto:eduardo@dimitrov.com.br"
 ---
 
